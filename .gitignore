@@ -1,2 +1,5 @@
 bin/
 *.exe
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/go-wca.iml
