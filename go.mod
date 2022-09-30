@@ -1,7 +1,7 @@
 module github.com/EugeneP-Zello/go-wca
 
-go 1.16
+go 1.18
 
 require github.com/go-ole/go-ole v1.2.6
 
-replace github.com/moutend/go-wca => github.com/EugeneP-Zello/go-wca develop
+require golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3 // indirect
